@@ -31,7 +31,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_description: mustings of just another engineer
 
 # Pagination
 paginate: 4
@@ -88,7 +88,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Srinivasan
 
   style: apa
   locale: en
