@@ -1,7 +1,16 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@InProceedings{Sam_2018_CVPR,
+  author = {Babu Sam, Deepak and Sajjan, Neeraj N. and Venkatesh Babu, R. and Srinivasan, Mukundhan},
+  title = {Divide and Grow: Capturing Huge Diversity in Crowd Images With Incrementally Growing CNN},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  abstract = {Automated counting of people in crowd images is a challenging task. The major difficulty stems from the large diversity in the way people appear in crowds. In fact, features available for crowd discrimination largely depend on the crowd density to the extent that people are only seen as blobs in a highly dense scene. We tackle this problem with a growing CNN which can progressively increase its capacity to account for the wide variability seen in crowd scenes. Our model starts from a base CNN density regressor, which is trained in equivalence on all types of crowd images. In order to adapt with the huge diversity, we create two child regressors which are exact copies of the base CNN. A differential training procedure divides the dataset into two clusters and fine-tunes the child networks on their respective specialties. Consequently, without any hand-crafted criteria for forming specialties, the child regressors become experts on certain types of crowds. The child networks are again split recursively, creating two experts at every division. This hierarchical training leads to a CNN tree, where the child regressors are more fine experts than any of their parents. The leaf nodes are taken as the final experts and a classifier network is then trained to predict the correct specialty for a given test image patch. The proposed model achieves higher count accuracy on major crowd datasets. Further, we analyse the characteristics of specialties mined automatically by our method.},
+  month = {June},
+  year = {2018},
+  url = {http://openaccess.thecvf.com/content_cvpr_2018/html/2726.html}
+}
+
 
 @book{einstein1956investigations,
   title={Investigations on the Theory of the Brownian Movement},
@@ -36,6 +45,33 @@
   doi={10.1103/PhysRev.47.777},
   url={http://link.aps.org/doi/10.1103/PhysRev.47.777}
 }
+
+@INPROCEEDINGS{7050658, 
+author={Srinivasan, Mukundhan}, 
+booktitle={2015 Eighth International Conference on Advances in Pattern Recognition (ICAPR)}, 
+title={Using Bayesian statistics and Gabor Wavelets for recognition of human faces: A Markov Random Field Framework}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={1-6}, 
+keywords={Bayes methods;face recognition;image classification;image matching;Markov processes;maximum likelihood estimation;minimisation;random processes;vectors;wavelet transforms;human face recognition;Markov random fields;Bayesian models;feature vectors;close proximity system;2D Gabor wavelet transform;constraint configurations;MRF posterior probability;MRF configuration;matching constraints;test image;maximum-a-posteriori solution;MAP solution;Mahalanobis distance metrics;expected similarity score;ESOP minimization algorithm;Bayesian statistics;Face recognition;Vectors;Databases;Computational modeling;Measurement;Image recognition;Feature extraction;Markov Random Fields;Gabor Wavelets;Face Recognition}, 
+doi={10.1109/ICAPR.2015.7050658}, 
+ISSN={}, 
+month={Jan},}
+
+@INPROCEEDINGS{7064600, 
+author={Srinivasan, Mukundhan and H. P. Venkata}, 
+booktitle={2014 13th International Conference on Control Automation Robotics Vision (ICARCV)}, 
+title={Towards better veracity for breast cancer detection using Gabor analysis and statistical learning}, 
+year={2014}, 
+volume={}, 
+number={}, 
+pages={1864-1869}, 
+abstract={Breast Cancer is by far the most prevalent cancer diagnosed in women worldwide. Early diagnosis and detection is now possible through modern technology like mammography. In this paper, we present a method to augment the detection process by efficiently recognizing the carcinogenic tissue or cells. To address this issue, we propose an algorithm using Discrete Gabor Wavelet Transforms based on Hidden Markov Model for classification. We test our proposed method on the Mini Mammographie Image Analysis Society (MIAS) database. The proposed method yields about 90% recognition accuracy. This increase in accuracy is due to the statistical classification of benign and malignant cells.}, 
+keywords={biological organs;biological tissues;cancer;cellular biophysics;discrete wavelet transforms;hidden Markov models;image classification;image recognition;mammography;medical image processing;breast cancer detection;gabor analysis;statistical learning;prevalent cancer diagnosis;carcinogenic tissue;carcinogenic cells;discrete gabor wavelet transforms;hidden Markov model;mini mammographic image analysis society database;MIAS database;image recognition;statistical classification;benign cells;malignant cells;image classification;Breast cancer;Hidden Markov models;Vectors;Feature extraction;Accuracy}, 
+doi={10.1109/ICARCV.2014.7064600}, 
+ISSN={}, 
+month={Dec},}
 
 @article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
