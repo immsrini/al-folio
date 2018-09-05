@@ -2,15 +2,15 @@
 layout: about
 permalink: /
 title: <strong>Mukundhan</strong> Srinivasan
-description: <a href="">Engineer at NVIDIA</a>. <a href=''>Organiser DLBLR</a>. Fedrer Fan. Ex-founder. Enjoy entroy.
+description: <a href="https://www.nvidia.com/" target="_blank">Engineer at NVIDIA</a>. <a href="https://www.meetup.com/Deep-Learning-Bangalore/" target="_blank">Organiser DLBLR</a>. Fedrer Fan. Ex-founder. Enjoy entroy.
 
 profile:
   align: right
   image: parisJan18.jpg
   address: >
     <p>My team at NVDA is hiring SAs!</p>
-    <p>If you love GPUs and practice ML engineering</p>
-    <p>hit me up...</p>
+    <p>If you love GPUs and practice ML engineering hit me up...</p>
+    <p></p>
 
 news: true
 social: true
