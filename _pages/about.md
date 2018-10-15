@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Mukundhan</strong> Srinivasan
-description: <a href="https://www.nvidia.com/" target="_blank">Engineer at NVIDIA</a>. <a href="https://www.meetup.com/Deep-Learning-Bangalore/" target="_blank">Organiser DLBLR</a>. Fedrer Fan. Ex-founder. Enjoy entroy.
+description: <a href="https://www.nvidia.com/" target="_blank">Engineer at NVIDIA</a>. <a href="https://www.meetup.com/Deep-Learning-Bangalore/" target="_blank">Organiser DLBLR</a>. Fedrer Fan. Ex-founder. Enjoy entroy. Information merchant. 
 
 profile:
   align: right
@@ -16,11 +16,13 @@ news: true
 social: true
 ---
 
-Mukundhan Srinivasan is a Deep Learning Solutions Architect at NVIDIA India. He works alongside engineers and researchers from enterprises, R&D labs, service corporations and academia in designing and applying the science of machine learning. 
+Mukundhan Srinivasan is a Senior Solutions Architect - Machine Learning at NVIDIA Corp. He works alongside engineers and researchers from enterprises, R&D labs, service corporations and academia in designing and applying the science of machine learning. 
 
 His focus is on making models that are used by data scientists more performant on GPUs and in doing so drives the adoption of GPU as default computing platform for machine learning workloads. His present research interests include multimodal generations using GANs, CNN based querying for video tasks, Disentanglement & Deep Reinforcement learning and application of DL in healthcare. He has several published papers in machine learning domain and has over 50+ citations. He leads academic research collaborations for NVIDIA India.
 
 Prior to NVIDIA, he was a cofounder of a startup that built developer tools for computer vision and NLU applications. Mukundhan began his career as a Research Assistant at the Indian Institute of Science, Bangalore where he worked on Indic language OCR and TTS systems.
+
+Outside of ML, he has keen interest in studying the structure of societies, how economics are built and structured, and Indic classical music. 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
