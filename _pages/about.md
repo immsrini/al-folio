@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Mukundhan Srinivasan is a Senior Solutions Architect - Machine  at NVIDIA Corp. He works alongside engineers and researchers from enterprises, R&D labs, service corporations and academia in designing and applying the science of machine learning. 
+Mukundhan Srinivasan is a Senior Solutions Architect - Machine Learning at NVIDIA Corp. He works alongside engineers and researchers from enterprises, R&D labs, service corporations and academia in designing and applying the science of machine learning. 
 
 His focus is on making models that are used by data scientists more performant on GPUs and in doing so drives the adoption of GPU as default computing platform for machine learning workloads. His present research interests include multimodal generations using GANs, CNN based querying for video tasks, Disentanglement & Deep Reinforcement learning and application of DL in healthcare. He has several published papers in machine learning domain and has over 50+ citations. He leads academic research collaborations for NVIDIA India.
 
@@ -26,7 +26,7 @@ Outside of ML, he has keen interest in studying the structure of societies, how 
 
 <hr>
 
-Research Colaborators: [Prof. Mitesh Khapara](https://www.cse.iitm.ac.in/~miteshk/){:target="\_blank"} and [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/){:target="\_blank"}, IIT Madras; [Prof. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/){:target="\_blank"}, IISc Bangalore; [Prof. Vinay P Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/){:target="\_blank"}, IIT Kanpur; [Prof. Debdoot Sheet](http://www.facweb.iitkgp.ernet.in/~debdoot/){:target="\_blank"}, IIT Kharagpur; [Dr. Tavpritesh Sethi](https://profiles.stanford.edu/tavpritesh-sethi){:target="\_blank"}, Stanford Medical; [Anurag Agrawal](https://www.igib.res.in/?q=anuragagrawal){:target="\_blank"}, IGIB; [Dr. Vidur Mahajan](http://www.caring-research.com/){:target="\_blank"}, CARING Research
+Research Colaborators: [Prof. Mitesh Khapara](https://www.cse.iitm.ac.in/~miteshk/){:target="\_blank"} and [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/){:target="\_blank"}, IIT Madras; [Prof. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/){:target="\_blank"}, IISc Bangalore; [Prof. Vinay P Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/){:target="\_blank"}, IIT Kanpur; [Prof. Debdoot Sheet](http://www.facweb.iitkgp.ernet.in/~debdoot/){:target="\_blank"}, IIT Kharagpur; [Dr. Tavpritesh Sethi](https://profiles.stanford.edu/tavpritesh-sethi){:target="\_blank"}, Stanford Medical; [Prof. Anurag Agrawal](https://www.igib.res.in/?q=anuragagrawal){:target="\_blank"}, IGIB; [Dr. Vidur Mahajan](http://www.caring-research.com/){:target="\_blank"}, CARING Research
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
