@@ -8,7 +8,7 @@ profile:
   align: right
   image: parisJan18.jpg
   address: >
-    <p>Hiring ML engineers and applied researchers at our labs. </p>
+    <p>Hiring <a href="https://jobs.lever.co/paytm/33a27f5b-67bd-41fc-8d8f-3963510c70a6" target="_blank">ML engineers</a> and applied researchers at our labs. </p>
     <p>DM me if you are interested...!</p>
     <p></p>
 
