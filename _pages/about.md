@@ -16,19 +16,19 @@ news: true
 social: true
 ---
 
-I work as Machine Learning Lead at [Paytm Labs, Canada.](https://www.paytm.ca/) 
+I work as a Machine Learning Lead at [Paytm Labs, Canada.](https://www.paytm.ca/)
 
-We build interesting engineering solutions to tackle scale challenges and deploy efficient models & pipelines. Our research/engineering directions are generally towards language understanding extending to Indic/low resolution settings, dialogue systems, graph representations & networks, speech systems, recommendations, online advertising, auctions strategies and select vision problems. 
+We build interesting engineering solutions to tackle scale challenges and deploy efficient models & pipelines. Our research/engineering directions are generally towards language understanding extending to Indic/low-resolution settings, dialogue systems, graph representations & networks, speech systems, recommendations, online advertising, auctions strategies, and select vision problems.
 
-In a prior life, I enjoyed working at [NVIDIA Corporation](https://www.nvidia.com/en-us/) as a Senior Solutions Architect for Machine Learning Systems where I had the opportunity to collaborate with organizations in building deep models, ML platforms, systems and pipelines for training and inferencing workloads on GPUs. 
+In a prior life, I enjoyed working at [NVIDIA Corporation](https://www.nvidia.com/en-us/) as a Senior Solutions Architect for Machine Learning Systems where I had the opportunity to collaborate with organizations in building deep models, ML platforms, systems and pipelines for training and inferencing workloads on GPUs.
 
-Before the awesome time at NVIDIA, I was a co-founder of [Market Learning Labs](http://marketlearning.io/) where we built developer tools for computer vision and NLU applications that utlimately failed due to non-functional GTM. I was very fortunate to start my career as a Research Assistant at the Indian Institute of Science, Bangalore where we worked on Indic language OCR and TTS systems. 
+Before the awesome time at NVIDIA, I was a co-founder of [Market Learning Labs](http://marketlearning.io/) where we built developer tools for computer vision and NLU applications that ultimately failed due to non-functional GTM. I was very fortunate to start my career as a Research Assistant at the Indian Institute of Science, Bangalore where we worked on Indic language OCR and TTS systems.
 
-I'm an active [IEEE](https://www.ieee.org/) volunteer contributing back to the engineering fraternity for about a decade now. Presently, I serve the Toronto Section as Membership Development coordinator.
+I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Chair, Membership Development Committee at the Toronto Section.
 
-Outside of ML, I have a keen interest in studying the structure of societies, biographies, how economics are built/structured, and Indic classical music. I spend disproportionate amount of time on horology, writing instruments, blades, and leather craft. 
+Outside of ML, I have a keen interest in studying the structure of societies, biographies, how economies are built/structured, and Indic classical music. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft.
 
-I used to live in (still) beautiful and *orginal* part of Bangalore closer to CTR's benne dose and Veena store's idli chutney before moving to Toronto. Being from the south, I love my filter kapi (not coffee!) and can be brided with a good one.
+I used to live in (still) beautiful and *original* part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kapi (yes, not coffee!) and can be brided with a good one.
 
 <!---
 Mukundhan Srinivasan is a Senior Solutions Architect - Machine Learning Systems at NVIDIA Corp. He works alongside engineers and researchers from enterprises, R&D labs, startups and academia in designing and applying the science of machine learning at scale.
