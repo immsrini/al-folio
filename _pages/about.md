@@ -2,20 +2,31 @@
 layout: about
 permalink: /
 title: <strong>Mukundhan</strong> Srinivasan
-description: <a href="http://paytmlabs.com/" target="_blank">ML Lead at Paytm Labs </a>. <a href="https://www.nvidia.com/" target="_blank">Ex-NVIDIA</a>. <a href="https://www.meetup.com/Deep-Learning-Bangalore/" target="_blank">Organiser DLBLR</a>. Fedrer Fan. Enjoy entroy. Information merchant. 
+description: <a href="https://www.nvidia.com/" target="_blank">Engineer at NVIDIA^2</a>. IEEE Volunteer, <a href="http://paytmlabs.com/" target="_blank">Ex-Paytm Labs</a>. <a href="https://www.meetup.com/Deep-Learning-Bangalore/" target="_blank">Organiser DLBLR</a>. <br> Fedrer Fan. Enjoy entroy. Information merchant. </br>
 
 profile:
   align: right
   image: parisJan18.jpg
   address: >
-    <p>Hiring <a href="https://jobs.lever.co/paytm/33a27f5b-67bd-41fc-8d8f-3963510c70a6" target="_blank">ML engineers</a> and applied researchers at our labs. </p>
-    <p>DM me if you are interested...!</p>
     <p></p>
 
 news: true
 social: true
 ---
 
+I’m back at [NVIDIA](https://www.nvidia.com/en-us/) for a second innings as a Senior Data Scientist. But this time across the pond at [TDot, Canada](https://www.toronto.ca/).
+
+I had a brief stint as ML Lead at [Paytm Labs, Canada](https://paytmlabs.com/). Before that, I was a Senior Architect at NVIDIA in Bangalore. I had the opportunity to collaborate with researchers/engineers while building deep models, platforms, pipelines for training and inferencing workloads on GPUs.
+
+A long time ago, I was a co-founder of [Market Learning Labs](http://marketlearning.io/) where we built developer tools for computer vision and NLP applications that ultimately failed due to non-functional GTM. I was very fortunate to start my career as a Research Assistant at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) working on Indic language OCR and TTS systems.
+
+I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Chair for the Membership Development Committee at the [Toronto Section](https://toronto.ieee.ca). Recently I was promoted to a Senior Member. Reach out if you are interested in building communities! From time to time, I advise select startups on AI statergy. 
+
+Outside of CS/ML, I have a keen interest in studying the structure of societies, select biographies, structures of economies, Sanatana dharma, and south-Indian classical music. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. I enjoy tech - anything that can be powered on and programmed.
+
+I used to live in (still) beautiful and original part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kaapi (yes, Kaapi!) and can be brided with a good one.
+
+<!---
 I work as a Machine Learning Lead at [Paytm Labs, Canada.](https://www.paytm.ca/)
 
 We build interesting engineering solutions to tackle scale challenges and deploy efficient models & pipelines. Our research/engineering directions are generally towards language understanding extending to Indic/low-resolution settings, dialogue systems, graph representations & networks, speech systems, recommendations, online advertising, auctions strategies, and select vision problems.
@@ -28,7 +39,8 @@ I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the
 
 Outside of ML, I have a keen interest in studying the structure of societies, biographies, how economies are built/structured, and Indic classical music. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft.
 
-I used to live in (still) beautiful and *original* part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kapi (yes, not coffee!) and can be brided with a good one.
+I used to live in (still) beautiful and *original* part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kapi (not coffee!) and can be brided with a good one.
+--->
 
 <!---
 Mukundhan Srinivasan is a Senior Solutions Architect - Machine Learning Systems at NVIDIA Corp. He works alongside engineers and researchers from enterprises, R&D labs, startups and academia in designing and applying the science of machine learning at scale.
@@ -39,7 +51,8 @@ He leads some academic research collaborations for NVIDIA India. His present res
 
 Prior to NVIDIA, he was a co-founder of a startup that built developer tools for computer vision and NLU applications. Mukundhan began his career as a Research Assistant at the Indian Institute of Science, Bangalore where he worked on Indic language OCR and TTS systems.
 
-Outside of ML, he has a keen interest in studying the structure of societies, how economics are built and structured, and Indic classical music. He lives in (still) beautiful old part of Bangalore closer to CTR's benne dose and Veena store's idli chutney. --->
+Outside of ML, he has a keen interest in studying the structure of societies, how economics are built and structured, and Indic classical music. He lives in (still) beautiful old part of Bangalore closer to CTR's benne dose and Veena store's idli chutney. 
+--->
 
 <hr>
 
