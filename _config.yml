@@ -23,13 +23,13 @@ orcid_id: # your ORCID ID
 contact_note: >
   Peace in our training times | Opinions are my own
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-58926075 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Mukund's blog
-blog_description: mustings of just another engineer
+blog_name: import
+blog_description: my old notes and blogs should be up here someday...
 
 # Pagination
 paginate: 4
