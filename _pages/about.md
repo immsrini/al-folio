@@ -22,7 +22,7 @@ A long time ago, I was a co-founder of [Market Learning Labs](http://marketlearn
 
 I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Chair for the Membership Development Committee at the [Toronto Section](https://toronto.ieee.ca). Recently I was promoted to a Senior Member. Reach out if you are interested in building communities! From time to time, I advise select startups on AI statergy. 
 
-Outside of CS/ML, I have a keen interest in studying the structure of societies, select biographies, structures of economies, Sanatana dharma, and south-Indian classical music. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. I enjoy tech - anything that can be powered on and programmed.
+Outside of CS/ML, I have a keen interest in studying the structure of societies, select biographies, structures of economies, and south-Indian classical music. I'm a student/practitioner of Sanatana dharma. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. I enjoy tech - anything that can be powered on and programmed.
 
 I used to live in (still) beautiful and original part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kaapi (yes, Kaapi!) and can be brided with a good one.
 
