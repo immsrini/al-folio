@@ -20,7 +20,7 @@ I had a brief stint as ML Lead at [Paytm Labs, Canada](https://paytmlabs.com/). 
 
 A long time ago, I was a co-founder of [Market Learning Labs](http://marketlearning.io/) where we built developer tools for computer vision and NLP applications that ultimately failed due to non-functional GTM. I was very fortunate to start my career as a Research Assistant at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) working on Indic language OCR and TTS systems.
 
-I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Chair for the Membership Development Committee at the [Toronto Section](https://toronto.ieee.ca). Recently I was promoted to a Senior Member. Reach out if you are interested in building communities! From time to time, I advise select startups on AI statergy. 
+I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Chair for the Membership Development Committee at the [Toronto Section](https://toronto.ieee.ca). Recently I was promoted to a Senior Member. Reach out if you are interested in building communities! From time to time, I've advised select startups in the deeptech space. 
 
 Outside of CS/ML, I have a keen interest in studying the structure of societies, select biographies, structures of economies, and south-Indian classical music. I'm a student/practitioner of Sanatana dharma. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. I enjoy tech - anything that can be powered on and programmed.
 
