@@ -24,6 +24,8 @@ I’m an active [IEEE](https://www.ieee.org/) volunteer contributing back to the
 
 Outside of CS/ML, I have a keen interest in studying the structure of societies, select biographies, structures of economies, and south-Indian classical music. I'm a student/practitioner of Sanatana dharma. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. I enjoy tech - anything that can be powered on and programmed.
 
+I enjoy & follow many sporting activities. Growing up, I had great exposure to tennis, cricket, and chess. I stopped following cricket after Rahul Dravid retired except for that occasional game. I'm a huge Federer fan and can't get enough of the inside-out forehand. I continue to learn and play chess (mainly because it is another tab in my browser!). I almost always play e4-e5.
+
 I used to live in (still) beautiful and original part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kaapi (yes, Kaapi!) and can be brided with a good one.
 
 <!---
