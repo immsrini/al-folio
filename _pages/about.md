@@ -14,21 +14,21 @@ news: true
 social: true
 ---
 
-I’m back at [NVIDIA](https://www.nvidia.com/en-us/){:target="\_blank"} in [TDot, Canada](https://www.toronto.ca/){:target="\_blank"} for a second innings as a Senior Data Scientist focusing on ML and GPUs at datacenter scale. Other workloads I'm interested in are compute virtualization and MLOps. 
+I’m back at [NVIDIA](https://www.nvidia.com/en-us/){:target="\_blank"} in [TDot, Canada](https://www.toronto.ca/){:target="\_blank"} for a second innings as a Senior Data Scientist focusing on ML at datacenter scale. Broadly, I'm interested in machine learning mechanisms and related system engineering. Research topics that I follow are generation applied to language, dialogue systems specifically generation & evlauation, and lastly ideas on generalization. I'm often facinated by language.  
 
 <!--- But this time at [TDot, Canada](https://www.toronto.ca/){:target="\_blank"}.-->
 
-I had a brief stint as Lead ML Architect at [Paytm Labs, Canada](https://paytmlabs.com/){:target="\_blank"}. Prior that, I was a Senior Architect at NVIDIA in Bangalore. I had the opportunity to collaborate with researchers/engineers while building deep models, platforms, pipelines for training and inferencing workloads on GPUs.
+I had a brief stint as Lead ML Architect at [Paytm Labs, Canada](https://paytmlabs.com/){:target="\_blank"}. Prior that, I was a Senior Architect at NVIDIA in Bangalore where I had the opportunity to collaborate with researchers/engineers while building deep models, platforms, pipelines for training and inferencing workloads on GPUs.
 
-A long time ago, I was a co-founder of [Market Learning Labs](http://marketlearning.io/){:target="\_blank"} where we built developer tools for computer vision and NLP applications that ultimately failed due to non-functional GTM. I was very fortunate to start my career as a Research Assistant at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/){:target="\_blank"} working on Indic language OCR and TTS systems.
+A long time ago, I was a co-founder of [Market Learning Labs](http://marketlearning.io/){:target="\_blank"} where we built developer tools for computer vision and NLP applications that ultimately failed due to non-functional GTM/sales. I was fortunate to start my career as a Research Assistant at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/){:target="\_blank"} working on Indic language OCR and TTS systems.
 
 I’m an active [IEEE](https://www.ieee.org/){:target="\_blank"} volunteer contributing back to the scientific community for about a decade now. Presently, I serve as the Vice-Chair for the Membership Development Committee at the [IEEE Region 7 (Canada)](https://www.ieee.ca/en/){:target="\_blank"}. Recently, I was promoted to a Senior IEEE Member and graduated from the [VoLT program](https://mga.ieee.org/volunteer-development/volunteer-leadership-training-program){:target="\_blank"}. Reach out if you are interested in building communities! From time to time, I've advised select startups in the deeptech space. 
 
-Outside of CS/ML, I have a keen interest in studying the structure of economies & societies and south-Indian classical music. I'm a student/practitioner of Sanatana dharma. I spend a disproportionate amount of time on horology, writing instruments, blades, and leathercraft. 
+Outside of CS/ML, I have a keen interest in studying the structure of economies, history of societies, and south-Indian classical music. I'm a student/practitioner of Sanatana dharma. I spend a disproportionate amount of time on horology and writing instruments. 
 
-I stopped following cricket after Rahul Dravid retired except for that occasional game. I'm a huge Federer fan and needless to say, no one has a better inside-out forehand. I continue to learn and play chess (mainly because it is another tab in the browser). I almost always play e4-e5.
+I stopped following cricket after Rahul Dravid retired except for that occasional game. I'm a huge Federer fan - needless to say, no one has a better inside-out forehand. I continue to learn and play chess (mainly because it is another tab in the browser). I almost always play e4-e5.
 
-I used to live in (still) beautiful and original part of [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="\_blank"} closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kaapi (yes, Kaapi!) and can be brided with a good one.
+I used to live in (beautiful) authentic part of [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="\_blank"} closer to CTR’s benne dose and Veena store’s idli chutney before moving to Toronto. Being from the south, I love my filter kaapi (yes, Kaapi!) and can be brided with a good one.
 
 <!---
 I work as a Machine Learning Lead at [Paytm Labs, Canada.](https://www.paytm.ca/)
